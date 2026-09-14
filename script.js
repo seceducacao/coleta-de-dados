@@ -7,7 +7,7 @@
    * Nunca coloque sb_secret_, service_role ou senhas de usuários neste arquivo.
    */
   const SUPABASE_CONFIG = {
-    url: "https://eohjotloqhffywwjntbi.supabase.co",
+    url: "https://eohjotlqohffywwjntbi.supabase.co",
     anonKey: "sb_publishable_gARItAfGqd-qKFnblrtOQO__sP14kVU"
   };
 
