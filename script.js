@@ -330,7 +330,7 @@
     ) {
       return {
         kind: "config",
-        message: "O usuário autenticou, mas o perfil institucional ainda não está vinculado. Execute o arquivo vincular_perfis.sql no Supabase."
+        message: "O usuário autenticou, mas o perfil institucional ainda não está vinculado. Execute o arquivo corrigir_migracao_auth.sql no Supabase."
       };
     }
 
